@@ -1,1 +1,0 @@
-A simple front-end react app.
