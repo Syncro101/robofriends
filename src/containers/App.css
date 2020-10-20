@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Futuristic Shore Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Futuristic Shore Regular'), url('FuturisticShoreRegular-2JP8.woff') format('woff');
+}
+
+h1 {
+    font-family: 'Futuristic Shore Regular';
+    font-weight: 200;
+    color: #0ccac4;
+}
